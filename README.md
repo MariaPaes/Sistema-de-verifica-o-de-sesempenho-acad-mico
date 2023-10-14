@@ -1,4 +1,4 @@
-# Sistema-de-verifica-o-de-sesempenho-acad-mico
+# Sistema de verificação de desempenho acadêmico
 
 
 ## Visão Geral
