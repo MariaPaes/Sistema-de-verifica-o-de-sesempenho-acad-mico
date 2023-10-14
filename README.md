@@ -30,3 +30,9 @@ Este código permite que os alunos insiram suas notas, calculem sua média e det
 ## Contribuição
 
 Aceitamos contribuições da comunidade! Se você deseja contribuir para este projeto, sinta-se à vontade para criar um fork e enviar suas melhorias por meio de pull requests.
+
+
+## Licença
+
+Este projeto é licenciado sob a MIT License.
+
